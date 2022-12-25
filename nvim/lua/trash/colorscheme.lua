@@ -11,4 +11,4 @@
 -- vim.cmd([[colorscheme catppuccin]])
 
 vim.o.background = "dark"
-vim.cmd([[colorscheme vn-night]])
+vim.cmd([[colorscheme noirbuddy]])

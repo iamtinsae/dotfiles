@@ -119,6 +119,7 @@ local user_plugins = {
 
 	-- Theme/Syntax
 	{ "catppuccin/nvim", as = "catppuccin" },
+	{ "jesseleite/nvim-noirbuddy", requires = { "tjdevries/colorbuddy.nvim", branch = "dev" } },
 	{
 		"akinsho/bufferline.nvim",
 		requires = "nvim-tree/nvim-web-devicons",
