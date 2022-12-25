@@ -143,6 +143,7 @@ lspconfig.gopls.setup(default_config)
 lspconfig.eslint.setup(default_config)
 lspconfig.vuels.setup(default_config)
 lspconfig.clangd.setup(default_config)
+lspconfig.astro.setup(default_config)
 
 -- Tailwind CSS
 local tw_highlight = require("tailwind-highlight")
